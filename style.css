@@ -45,7 +45,6 @@ body{
     width: 100%;
     height: auto;
     display: block; /* Add this to remove any potential spacing */
-    border: 1px solid red;
 }
 
 .content{
